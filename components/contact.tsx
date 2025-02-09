@@ -10,7 +10,7 @@ export function Contact() {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-8">Get In Touch</h2>
           <p className="text-gray-400 text-lg mb-12">
-            I'm currently looking for new opportunities. Whether you have a question or just want to say hi, feel free
+            I&apos;m currently looking for new opportunities. Whether you have a question or just want to say hi, feel free
             to reach out!
           </p>
 
