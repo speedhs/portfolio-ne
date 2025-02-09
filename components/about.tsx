@@ -29,8 +29,8 @@ export function About() {
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-8">About Me</h2>
           <p className="text-gray-400 text-lg leading-relaxed mb-6">
-            I&apos;m a Software Engineer with a passion for building innovative solutions. Currently pursuing my B.Tech in
-            Computer Science and Engineering at Shiv Nadar Institute of Eminence, I specialize in full-stack development
+            I&apos;m a Software Engineer with a passion for building innovative solutions. Currently working at Algotest as a Backend Engineer
+            ,I specialize in full-stack development
             with expertise in Python, Golang, and TypeScript.
           </p>
           <p className="text-gray-400 text-lg leading-relaxed">

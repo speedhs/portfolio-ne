@@ -13,7 +13,7 @@ export function Experience() {
       period: "June 2024 - Present",
       location: "Bangalore, Karnataka, India",
       description: [
-        "Working on Risk Management System to track orders and positions from brokers",
+        "Worked on Risk Management System to track orders and positions from brokers",
         "Implemented Strategy Template Code to unify deployments across all strategies",
         "Developed Lead Management System using Frappe framework",
         "Migrated broker communication service from v1 to v2 reducing latency",
